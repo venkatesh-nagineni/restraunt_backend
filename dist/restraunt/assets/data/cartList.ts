@@ -15,6 +15,7 @@ export class Angebotetypes {
   AngeboteName: string;
   AngeboteDesc?: string;
   AngeboteNo?: string;
+  SelectedAngebote?: string;
 }
 
 /* export class Product {
